@@ -1,2 +1,5 @@
+# Jain Fitness Landing Page
 
-A responsive and modern gym landing page built using HTML and CSS. Includes a navigation bar, background image overlay, and a user-friendly registration form
+This is a simple and responsive gym landing page built using HTML and CSS.  
+It features a navigation bar, a background image with overlay, and a membership registration form.  
+Designed for beginners to understand layout structuring and basic styling.
